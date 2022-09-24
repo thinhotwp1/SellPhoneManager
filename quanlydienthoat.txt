@@ -1,0 +1,21 @@
+Product:
+- Id
+- Name
+- Price
+- Describe
+- SellNumber
+
+
+                            
+Quản lý bán điện thoại:
+- Thêm 
+- Sửa
+- Xóa
+- Hiển thị list
+- Tìm kiếm theo id
+- Tìm kiếm theo name
+- Tìm kiếm theo khoảng giá
+- Sắp xếp theo id
+- Sắp xếp theo giá thấp tới cao
+- Sắp xếp theo giá cao tới thấp 
+- Sắp xếp theo lượt bán
